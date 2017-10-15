@@ -79,7 +79,7 @@ Finally, it leads to
 
 $Probability~ that~ an~ event(Y = j)~ occurs = \frac{((k-j+1)^{n} - (k - j)^{n})}{k^n}$
 
-To conclude, as minimum value $j$ increases prabability decreases.
+To conclude, as minimum value $j$ increases probability decreases.
 
 Using _R code_ we can prove,
 
